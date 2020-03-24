@@ -1,2 +1,2 @@
 # E-ticaret
-Bu bir e-ticarte uygulamasıdır.
+Bu bir e-ticaret uygulamasıdır.
